@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/%7Bvartech%7D/static/css/main.31d6cfe0.css",
-    "main.js": "/%7Bvartech%7D/static/js/main.d7a9b751.js",
-    "static/js/787.23a7df86.chunk.js": "/%7Bvartech%7D/static/js/787.23a7df86.chunk.js",
-    "index.html": "/%7Bvartech%7D/index.html",
-    "main.d7a9b751.js.map": "/%7Bvartech%7D/static/js/main.d7a9b751.js.map",
-    "787.23a7df86.chunk.js.map": "/%7Bvartech%7D/static/js/787.23a7df86.chunk.js.map"
+    "main.css": "/vartech/static/css/main.31d6cfe0.css",
+    "main.js": "/vartech/static/js/main.3c9fedee.js",
+    "static/js/787.23a7df86.chunk.js": "/vartech/static/js/787.23a7df86.chunk.js",
+    "index.html": "/vartech/index.html",
+    "main.3c9fedee.js.map": "/vartech/static/js/main.3c9fedee.js.map",
+    "787.23a7df86.chunk.js.map": "/vartech/static/js/787.23a7df86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.d7a9b751.js"
+    "static/js/main.3c9fedee.js"
   ]
 }
