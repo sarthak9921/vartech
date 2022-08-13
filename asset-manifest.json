@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Bvartech%7D/static/css/main.31d6cfe0.css",
+    "main.js": "/%7Bvartech%7D/static/js/main.d7a9b751.js",
+    "static/js/787.23a7df86.chunk.js": "/%7Bvartech%7D/static/js/787.23a7df86.chunk.js",
+    "index.html": "/%7Bvartech%7D/index.html",
+    "main.d7a9b751.js.map": "/%7Bvartech%7D/static/js/main.d7a9b751.js.map",
+    "787.23a7df86.chunk.js.map": "/%7Bvartech%7D/static/js/787.23a7df86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d7a9b751.js"
+  ]
+}
